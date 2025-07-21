@@ -118,5 +118,5 @@ python upload_to_drive.py <filename.pdf> <drive_folder_id>
 
 ## 📬 Contact
 
-Made by [Raheel Khan](https://github.com/Raheelkhan-05)  
+Made by [Raheelkhan Lohani](https://github.com/Raheelkhan-05)  
 Feel free to connect for questions, feedback, or contributions!
